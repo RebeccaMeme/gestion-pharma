@@ -22,7 +22,7 @@ const products = [
 ];
 
 
-function Products() {
+function ProductsList() {
     return (
         <>
             <h1>Products List</h1>
@@ -37,4 +37,4 @@ function Products() {
 
     )
 }
-export default Products;
+export default ProductsList;
